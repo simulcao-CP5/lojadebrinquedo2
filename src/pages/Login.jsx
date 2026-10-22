@@ -9,7 +9,7 @@ const Login = () => {
   // Hook useNavigate - navega entre os componentes
   const navigate = useNavigate();
 
-  // Função de submissão do formulário
+ 
   const handleLogin = (e) => {
     // Previne que a página recarregue
     e.preventDefault();
