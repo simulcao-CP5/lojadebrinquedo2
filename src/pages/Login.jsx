@@ -3,7 +3,7 @@ import { useNavigate, Link } from "react-router-dom"
 
 const Login = () => {
 
-  // Hook useState - manipula o estado da variável
+  
   const [email, setEmail] = useState("");
   const [senha, setSenha] = useState("");
   // Hook useNavigate - navega entre os componentes
